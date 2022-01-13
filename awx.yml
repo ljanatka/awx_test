@@ -3,4 +3,4 @@
   tasks:
     - name: Hello Message
       debug:
-        msg: "Hello World from awx_test master branch!"
+        msg: "Hello World from awx_test v1 branch!"
